@@ -1,2 +1,2 @@
-# connexa
-The modern network of networks 🌤️🌥️
+# connexa-cloud
+remote IoT controller 
